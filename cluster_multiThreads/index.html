@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Teste</h1>
+    <form method='post' enctype="multipart/form-data" id='form'>
+        <input type='file' name='fileUploaded' id='uploadFile' multiple='multiple'/>
+        <button type='submit'>Enviar</button>
+    </form>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script>
+        
+        const form = document.getElementById('form');
+        const uploadFile = document.getElementById('uploadFile');
+
+        form.addEventListener('submit', async (e) => {
+            e.preventDefault();
+            
+            const formData = new FormData();
+
+           Object.keys(uploadFile.files).forEach(file => {
+                formData.append('uploadFiles[]', uploadFile.files[file]);
+            })
+            
+            const api =  await fetch('http://localhost:3001/teste',{
+                method: 'POST',
+                body: formData
+            })
+
+            console.log(api.json().then(resp => console.log(resp)))
+
+        });
+
+    </script>
+</body>
+</html>

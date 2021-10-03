@@ -1,0 +1,402 @@
+[
+  {
+    "nome": "Barnett Freeman",
+    "categoria": "quality assurance"
+  },
+  {
+    "nome": "Elnora Buchanan",
+    "categoria": "developer"
+  },
+  {
+    "nome": "Velasquez Faulkner",
+    "categoria": "security"
+  },
+  {
+    "nome": "Amy Collier",
+    "categoria": "security"
+  },
+  {
+    "nome": "Garcia Marks",
+    "categoria": "manager"
+  },
+  {
+    "nome": "Stanton Phillips",
+    "categoria": "developer"
+  },
+  {
+    "nome": "Ferrell Montoya",
+    "categoria": "developer"
+  },
+  {
+    "nome": "Burton Singleton",
+    "categoria": "site reliability"
+  },
+  {
+    "nome": "Myrtle Callahan",
+    "categoria": "site reliability"
+  },
+  {
+    "nome": "Paulette Benton",
+    "categoria": "manager"
+  },
+  {
+    "nome": "Ortega Coleman",
+    "categoria": "quality assurance"
+  },
+  {
+    "nome": "Petersen Brown",
+    "categoria": "manager"
+  },
+  {
+    "nome": "Doyle Jefferson",
+    "categoria": "developer"
+  },
+  {
+    "nome": "Riggs Foreman",
+    "categoria": "security"
+  },
+  {
+    "nome": "Tracy Wong",
+    "categoria": "site reliability"
+  },
+  {
+    "nome": "Davis Calderon",
+    "categoria": "security"
+  },
+  {
+    "nome": "Fernandez Baker",
+    "categoria": "site reliability"
+  },
+  {
+    "nome": "Alyson Rivera",
+    "categoria": "developer"
+  },
+  {
+    "nome": "Newman Arnold",
+    "categoria": "security"
+  },
+  {
+    "nome": "Sophia Boone",
+    "categoria": "manager"
+  },
+  {
+    "nome": "Marissa Wilder",
+    "categoria": "developer"
+  },
+  {
+    "nome": "Velazquez Parks",
+    "categoria": "manager"
+  },
+  {
+    "nome": "Mccall Ruiz",
+    "categoria": "site reliability"
+  },
+  {
+    "nome": "Bell Austin",
+    "categoria": "quality assurance"
+  },
+  {
+    "nome": "Hooper Sexton",
+    "categoria": "site reliability"
+  },
+  {
+    "nome": "Graham Padilla",
+    "categoria": "security"
+  },
+  {
+    "nome": "Candice Buck",
+    "categoria": "quality assurance"
+  },
+  {
+    "nome": "Warner Hickman",
+    "categoria": "quality assurance"
+  },
+  {
+    "nome": "Janette Elliott",
+    "categoria": "site reliability"
+  },
+  {
+    "nome": "Denise Holder",
+    "categoria": "quality assurance"
+  },
+  {
+    "nome": "Colette Burris",
+    "categoria": "security"
+  },
+  {
+    "nome": "Ryan Morrison",
+    "categoria": "manager"
+  },
+  {
+    "nome": "Reilly Klein",
+    "categoria": "quality assurance"
+  },
+  {
+    "nome": "Judith Roach",
+    "categoria": "developer"
+  },
+  {
+    "nome": "Georgette Mcleod",
+    "categoria": "site reliability"
+  },
+  {
+    "nome": "Eaton Cunningham",
+    "categoria": "quality assurance"
+  },
+  {
+    "nome": "Henry Odonnell",
+    "categoria": "manager"
+  },
+  {
+    "nome": "Hood Robles",
+    "categoria": "developer"
+  },
+  {
+    "nome": "Alma Hess",
+    "categoria": "developer"
+  },
+  {
+    "nome": "Mandy King",
+    "categoria": "developer"
+  },
+  {
+    "nome": "Kitty Soto",
+    "categoria": "security"
+  },
+  {
+    "nome": "Veronica Thornton",
+    "categoria": "quality assurance"
+  },
+  {
+    "nome": "Sexton Grant",
+    "categoria": "developer"
+  },
+  {
+    "nome": "Misty Mcintosh",
+    "categoria": "quality assurance"
+  },
+  {
+    "nome": "Mcfadden Rosa",
+    "categoria": "site reliability"
+  },
+  {
+    "nome": "Marylou Maddox",
+    "categoria": "quality assurance"
+  },
+  {
+    "nome": "Randall Curtis",
+    "categoria": "site reliability"
+  },
+  {
+    "nome": "Manning Nicholson",
+    "categoria": "quality assurance"
+  },
+  {
+    "nome": "Vilma Bernard",
+    "categoria": "developer"
+  },
+  {
+    "nome": "Aida Bishop",
+    "categoria": "security"
+  },
+  {
+    "nome": "Eve Knight",
+    "categoria": "quality assurance"
+  },
+  {
+    "nome": "Holder Richards",
+    "categoria": "manager"
+  },
+  {
+    "nome": "Charity Joseph",
+    "categoria": "security"
+  },
+  {
+    "nome": "Celeste Ellis",
+    "categoria": "developer"
+  },
+  {
+    "nome": "Harrell Tanner",
+    "categoria": "quality assurance"
+  },
+  {
+    "nome": "Boyd Stokes",
+    "categoria": "security"
+  },
+  {
+    "nome": "Cortez Schwartz",
+    "categoria": "developer"
+  },
+  {
+    "nome": "Byers Randolph",
+    "categoria": "quality assurance"
+  },
+  {
+    "nome": "Good Ayers",
+    "categoria": "security"
+  },
+  {
+    "nome": "Melva French",
+    "categoria": "manager"
+  },
+  {
+    "nome": "Nanette Villarreal",
+    "categoria": "developer"
+  },
+  {
+    "nome": "Marks Ayala",
+    "categoria": "quality assurance"
+  },
+  {
+    "nome": "Riddle Morse",
+    "categoria": "security"
+  },
+  {
+    "nome": "Cecelia Lancaster",
+    "categoria": "quality assurance"
+  },
+  {
+    "nome": "Jenna Sharpe",
+    "categoria": "security"
+  },
+  {
+    "nome": "Monroe Henry",
+    "categoria": "quality assurance"
+  },
+  {
+    "nome": "Guthrie Livingston",
+    "categoria": "site reliability"
+  },
+  {
+    "nome": "Justice Mathews",
+    "categoria": "quality assurance"
+  },
+  {
+    "nome": "Alison Watson",
+    "categoria": "site reliability"
+  },
+  {
+    "nome": "Fitzpatrick Rhodes",
+    "categoria": "security"
+  },
+  {
+    "nome": "Lora Stevens",
+    "categoria": "security"
+  },
+  {
+    "nome": "Barbara Fletcher",
+    "categoria": "security"
+  },
+  {
+    "nome": "Maryanne Moses",
+    "categoria": "security"
+  },
+  {
+    "nome": "Caldwell Farmer",
+    "categoria": "security"
+  },
+  {
+    "nome": "Claire Stephenson",
+    "categoria": "security"
+  },
+  {
+    "nome": "Elisa Potts",
+    "categoria": "manager"
+  },
+  {
+    "nome": "Mosley Chang",
+    "categoria": "developer"
+  },
+  {
+    "nome": "Macdonald Casey",
+    "categoria": "quality assurance"
+  },
+  {
+    "nome": "Maggie Perry",
+    "categoria": "developer"
+  },
+  {
+    "nome": "Dillon George",
+    "categoria": "manager"
+  },
+  {
+    "nome": "Daniel Jordan",
+    "categoria": "site reliability"
+  },
+  {
+    "nome": "Goodwin Washington",
+    "categoria": "quality assurance"
+  },
+  {
+    "nome": "Carter Mckee",
+    "categoria": "developer"
+  },
+  {
+    "nome": "Brooks Blake",
+    "categoria": "developer"
+  },
+  {
+    "nome": "Yesenia Harding",
+    "categoria": "quality assurance"
+  },
+  {
+    "nome": "Durham Cortez",
+    "categoria": "quality assurance"
+  },
+  {
+    "nome": "Tia Reynolds",
+    "categoria": "site reliability"
+  },
+  {
+    "nome": "Leigh Kerr",
+    "categoria": "manager"
+  },
+  {
+    "nome": "Roman Nunez",
+    "categoria": "site reliability"
+  },
+  {
+    "nome": "Mayra Delaney",
+    "categoria": "security"
+  },
+  {
+    "nome": "Lottie Clay",
+    "categoria": "quality assurance"
+  },
+  {
+    "nome": "June Pittman",
+    "categoria": "quality assurance"
+  },
+  {
+    "nome": "Raquel Petersen",
+    "categoria": "security"
+  },
+  {
+    "nome": "Letitia Peters",
+    "categoria": "quality assurance"
+  },
+  {
+    "nome": "Vaughn Farrell",
+    "categoria": "quality assurance"
+  },
+  {
+    "nome": "Helene Sloan",
+    "categoria": "site reliability"
+  },
+  {
+    "nome": "Craft Leach",
+    "categoria": "site reliability"
+  },
+  {
+    "nome": "Hester Garrett",
+    "categoria": "site reliability"
+  },
+  {
+    "nome": "Carmella Santiago",
+    "categoria": "site reliability"
+  },
+  {
+    "nome": "Sarah Sharp",
+    "categoria": "manager"
+  }
+]
